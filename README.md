@@ -52,14 +52,14 @@ Procuro melhorar em mobile e Node/react, o que precisar de fullstack, esse é o 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussiIva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussiIva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GCampanelliC&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCampanelliC&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciussiIva&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GCampanelliC&hide_border=true" />
 </details>
 
  
@@ -68,7 +68,7 @@ Procuro melhorar em mobile e Node/react, o que precisar de fullstack, esse é o 
   <summary><b>⚙️ Setup</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 10</li>
-  	    <li><b>Navegador: </b> Google Chrome</li>
+  	    <li><b>Navegador: </b> Google Chrome/OperaGX/Edge</li>
 	    <li><b>Terminal: </b> CMD </li>
 	    <li><b>IDE:</b> VSCode </li>
 	    <br />
