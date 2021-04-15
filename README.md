@@ -32,7 +32,11 @@ Procuro melhorar em mobile e Node/react, o que precisar de fullstack, esse é o 
 
 ### Linguagens e Ferramentas:
 
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Flutter"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySql"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="Wordp"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="boots"></code>
 <code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML"></code>
 <code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
