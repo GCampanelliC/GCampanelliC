@@ -11,26 +11,28 @@
 
 ### Obrigado por visitar meu perfil &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=GCampanelliC.GCampanelliC&style=flat-square&color=0088cc)
 
-Sou aluno do último ano em Ciência da Computação do IF-Muzambinho. Sempre disposto a aprender e trabalhar em várias tecnologias e domínios. Adoro explorar novas linguagens de programação  e aproveitá-las para resolver problemas do cotidiano. Atualmente estou trabalhando em Desenvolvimento Web e apredendo Flutter.
+Aluno do Ultimo ano de Ciência da Computação. Mineiro de nascença e pronto para buscar o mais longe e mostrar meus projetos para o mundo. Sou um músico nos momentos de lazer e rodinhas de grupo.
+Me dou bem com linguagens interpretadas como Javascript, HTML, CSS, além de ter alguns projetos em linguagens compiladas como C++, Python, Java, etc.
 
+Procuro melhorar em mobile e Node/react, o que precisar de fullstack, esse é o meu objetivo! Quem não é visto, não é lembrado! Futuro SEO da GVCodex.
 
 
 ### Algumas coisas sobre mim:
 
-- 🛠 &nbsp; Programando em Flutter, HTML, CSS e JavaSCRIPT.
+- 🛠 &nbsp; Programando em Python, HTML, CSS e JavaSCRIPT.
 - 🚀 &nbsp; Aprendendo Desenvolvimento Mobile.
-- :worried: &nbsp; Odeio Java.
+- :worried: &nbsp; Odeio não ser produtivo.
 
 
 ### Coisas favoritas:
 
-- 💻 &nbsp; Sempre gostei de Desenvolvimento Web, porém estou explorando o Mobile.
-- 👾 &nbsp; Jogar.
-- 🍕 &nbsp; Eventos de tecnologia e qualquer coisa que envolva programação.
+- 💻 &nbsp; Sempre gostei de Desenvolvimento Web, porém estou me encontrando mais agora.
+- 👾 &nbsp; Jogar e cantar.
+- 🍕 &nbsp; Eventos de tecnologia e qualquer coisa que envolva programação e Música.
 
 ### Linguagens e Ferramentas:
 
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Flutter"></code>
 <code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML"></code>
 <code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
